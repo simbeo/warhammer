@@ -56,6 +56,9 @@ a:link{
   white-space: nowrap;
   text-overflow: ellipsis;
 }
+.standard_text{
+  font-size: 150%;
+}
 /*text end*/
 
 /*this is for images*/
