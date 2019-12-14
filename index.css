@@ -1,0 +1,64 @@
+/* general controls*/
+body{
+background:  #a6a6a6 ; 
+}
+
+/* this is for the navigation bar */
+nav ul {
+  list-style-type: none;
+  margin: 5;
+  padding: 10;
+  overflow: hidden;
+  background-color: #333;
+}
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.active {
+  background-color: #009933;
+}
+
+li  {
+  color: white;
+  text-align: center;
+  padding: 30px 7%;
+  display: inline;
+}
+
+li {
+  border-right: 1px solid #bbb;
+}
+/* this is for active components*/
+li:last-child {
+  border-right: none;
+}
+a:link{  
+ text-decoration:none;
+ color: #ffffff;
+}  
+/* active components end*/
+/*navigation bar end*/
+
+
+
+
+/*this is for text*/
+.title_text-home {
+  font-size: 250%;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  text-align: center;
+  color: green;
+  text-decoration: underline;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+/*text end*/
+
+/*this is for images*/
+
+/*images end*/
+
