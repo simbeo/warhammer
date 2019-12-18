@@ -62,6 +62,12 @@ a:link{
 /*text end*/
 
 /*this is for images*/
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 /*images end*/
 
