@@ -41,8 +41,12 @@ a:link{
  text-decoration:none;
  color: #e6e6e6;
 }  
-.logo {
+.title-banner {
   float: right;
-  margin: 0 1.5%;
-  width: 31%;
+  margin: 10px;
+  padding: 20pc;
+  width: 180px;
+  display: inline-block;
+  background: #eee
 }
+
