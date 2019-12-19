@@ -42,14 +42,15 @@ a:link{
  color: #e6e6e6;
 }  
 .title-banner-image {
-  margin: 10px;
+  margin-bottom 10px
   padding: 20px;
   width: 400px;
   display: inline-block;
   background: #cccccc;
 }
 .title-banner-text {
-  margin: 10px;
+  margin-right 20px;
+  margin-bottom 10px
   padding: 20px;
   width: 180px;
   display: inline-block;
