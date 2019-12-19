@@ -41,12 +41,21 @@ a:link{
  text-decoration:none;
  color: #e6e6e6;
 }  
-.title-banner {
+.title-banner-image {
+  float: right;
+  margin: 10px;
+  padding: 20px;
+  width: 400px;
+  display: inline-block;
+  background: #eee;
+}
+.title-banner-text {
   float: right;
   margin: 10px;
   padding: 20px;
   width: 180px;
   display: inline-block;
-  background: #eee
-}
+  background: #eee;
+  font-size: 29px;
+
 
