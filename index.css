@@ -40,6 +40,9 @@ a:link{
  text-decoration:none;
  color: #ffffff;
 }  
+a:active {
+  color: #ffffff;
+}
 /* active components end*/
 /*navigation bar end*/
 
